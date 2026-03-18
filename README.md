@@ -49,7 +49,7 @@ opencart_automation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/opencart_automation.git
+git clone https://github.com/Ashupido/opencart_automation.git
 cd opencart_automation
 
 
